@@ -1,6 +1,6 @@
 # Basic-Home-Alarm-System
 
-> Firmware for a simple home alarm with Disarmed, Armed, and Report modes.
+> Firmware for a simple home alarm with Disarmed, Armed, and Report modes using Raspberry Pi Pico.
 
 ---
 
