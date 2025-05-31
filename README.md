@@ -12,7 +12,7 @@ This project implements the logic for a home alarm system on a microcontroller. 
 - **Armed**: Sensors active; triggers alarm on breach  
 - **Report**: Sub-state after multiple failed code attempts
 
-Users authenticate via a 4-digit PIN to arm or disarm the system. Visual and audible feedback is provided via an LCD display, buzzer, and LED.
+Users authenticate via a 4-digit PIN on a 4x4 keypad to arm or disarm the system. Visual and audible feedback is provided via an LCD display, buzzer, and LED.
 
 ### Flowchart
 
